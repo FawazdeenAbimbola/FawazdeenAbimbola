@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, and SQL**
 
-- 👯 My Area of Interest's are e **JavaScript, PHP, e**
+- 👯 My Area of Interest's are  **E-commerce, Fintech, JavaScript, PHP, e**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, MYSQL**
 
